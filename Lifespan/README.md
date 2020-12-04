@@ -4,24 +4,24 @@ My notes from his book:
 Lifespan, by David Sinclair 
 
 - Low levels of leucine, isoleucine, and valine BCAAs correlate with increased lifespan
-leucine 亮氨酸
-isoleucine 异亮氨酸
-valine 缬氨酸
-BCAAs 支链氨基酸（BCAAs）复合支链氨基酸
-correlate with 互相关联...
-复合支链氨基酸
-缬氨酸（valine)
-大量的科学研究发现，每当BCAA进入体内之后，蛋白质合成速度就会变快，蛋白质分解速度就会降低，但直接刺激蛋白质合成率的氨基酸主要是亮氨酸。异亮氨酸和缬氨酸对于增肌来说并没有很大的帮助。
+1. leucine 亮氨酸  
+2. isoleucine 异亮氨酸  
+3. valine 缬氨酸  
+4. BCAAs 支链氨基酸（BCAAs）复合支链氨基酸  
+5. correlate with 互相关联...  
+6. 复合支链氨基酸  
+7. 缬氨酸（valine)  
+8. 大量的科学研究发现，每当BCAA进入体内之后，蛋白质合成速度就会变快，蛋白质分解速度就会降低，但直接刺激蛋白质合成率的氨基酸主要是亮氨酸。异亮氨酸和缬氨酸对于增肌来说并没有很大的帮助。
 
 - Exercise turns on the genes that make us young again
-Exercise 运动
-gene  [dʒiːn] 基因
+1. Exercise 运动
+2. gene  [dʒiːn] 基因
 
-- Hunger and calorie restriction plays a big role in vitality and longevity
-Hunger 饥饿，节食
-calorie 卡路里；热量
-vitality 活力；生命力；热情
-longevity 长寿；长命；持久
+- Hunger and calorie restriction plays a big role in vitality and longevity  
+Hunger 饥饿，节食  
+calorie 卡路里；热量  
+vitality 活力；生命力；热情  
+longevity 长寿；长命；持久  
 
 - Get exposed to cold
   expose 暴露；揭露；曝光；揭穿
