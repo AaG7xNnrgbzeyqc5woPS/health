@@ -13,15 +13,15 @@
 
 ---
 
-#专业文章：
+# 专业文章：
 
   [Athlete's Foot (Tinea Pedis)](https://www.drugs.com/health-guide/athlete-s-foot-tinea-pedis.html)
   
   
 ---
-#Athlete's foot
+# Athlete's foot
 
-##OVERVIEW
+## OVERVIEW
 
     A fungal infection of skin in the foot.
     Is condition treatable?
@@ -35,7 +35,7 @@
     Condition Highlight
     More common in males
 
-##Symptoms
+## Symptoms
 
   Some of the common symptoms are:
 
@@ -49,14 +49,14 @@
     White and soggy toes
     Toenails that pull away from the nail bed
     
-##Transmission:
+## Transmission:
 
     It is caused by the fungus tinea pedis
     The fungus thrives in warm, moist environments. It is found in the shower, locker room floors, and in swimming pools
     Direct contact- touching the affected area
     Indirect contact- through contaminated items such as clothes, shoes, towels, bed sheets
     
-##Prevention
+## Prevention
 
 Following practices can help prevent Athlete’s foot:
 
@@ -68,7 +68,7 @@ Following practices can help prevent Athlete’s foot:
     Do not share socks, shoes, bed sheets or towels
     Use talcum powder to prevent sweat in your feet
     
-##Complications
+## Complications
 
 Spreading: Athlete’s foot can spread to other parts of the body. These include:
 
@@ -78,7 +78,7 @@ Spreading: Athlete’s foot can spread to other parts of the body. These include
     Allergic reaction: Some people show an allergic reaction to the fungus leading to blisters on the foot or hand
     Secondary bacterial infection
     
-#DIAGNOSIS    
+# DIAGNOSIS    
 Diagnosis is made based on the signs and symptoms. KOH test may be ordered to confirm the fungal infection.
 Common tests & procedures
 
