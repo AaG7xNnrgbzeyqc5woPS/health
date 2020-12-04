@@ -1,4 +1,6 @@
 
+# [我的经验总结](https://github.com/AaG7xNnrgbzeyqc5woPS/health/blob/main/Tinea_pedis/%E8%84%9A%E6%B0%94%E6%B2%BB%E7%96%97%E7%BB%8F%E9%AA%8C.md)
+
 #  Athlete's Foot (Tinea Pedis)
 
     Tinea pedis, generally known as athlete's foot, is a fungal infection of the skin of the foot.
