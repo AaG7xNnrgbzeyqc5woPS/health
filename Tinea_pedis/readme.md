@@ -12,12 +12,17 @@
     能治疗和预防大多数的脚癣。缓解瘙痒和灼烧感。 
 
 ---
+
+#专业文章：
+
   [Athlete's Foot (Tinea Pedis)](https://www.drugs.com/health-guide/athlete-s-foot-tinea-pedis.html)
   
   
 ---
 #Athlete's foot
+
 ##OVERVIEW
+
     A fungal infection of skin in the foot.
     Is condition treatable?
     Treatment from medical professional advised
@@ -31,6 +36,7 @@
     More common in males
 
 ##Symptoms
+
   Some of the common symptoms are:
 
     Itching and soreness on the soles and between toes
