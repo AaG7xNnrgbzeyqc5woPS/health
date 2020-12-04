@@ -10,16 +10,16 @@ Cures and prevents most Athlete's Foot. Relieves Itching and Burning.
 能治疗和预防大多数的脚癣。缓解瘙痒和灼烧感。 
 
 #Athlete's foot
----
-A fungal infection of skin in the foot.
-Is condition treatable?
-Treatment from medical professional advised
-Does diagnosis require lab test or imaging?
-Rarely requires lab test or imaging
-Time taken for recovery
-Can last several days or weeks
-How is condition transmitted?
-Transmitted through direct contact
-Condition Highlight
-More common in males
----
+
+    A fungal infection of skin in the foot.
+    Is condition treatable?
+    Treatment from medical professional advised
+    Does diagnosis require lab test or imaging?
+    Rarely requires lab test or imaging
+    Time taken for recovery
+    Can last several days or weeks
+    How is condition transmitted?
+    Transmitted through direct contact
+    Condition Highlight
+    More common in males
+
