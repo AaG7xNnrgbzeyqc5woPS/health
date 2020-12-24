@@ -15,12 +15,16 @@ CAS: 1115-70-4
 中文别名：1,1-二甲基双胍盐酸盐
 英文名称：Metformin HCL
 英文别名：Metformin Hydrochloride; 3-(diaminomethylidene)-1,1-dimethylguanidine hydrochloride (1:1)
-CAS号：1115-70-4 [1] 
+CAS号：1115-70-4  
 EINECS号：214-230-6
 分子式：C4H12ClN5
 分子量：165.6246
 风险术语 R22; R36/38
 安全术语 S26; S36
 ```
-[百度百科 盐酸二甲双胍](https://baike.baidu.com/item/%E7%9B%90%E9%85%B8%E4%BA%8C%E7%94%B2%E5%8F%8C%E8%83%8D/8342844?fr=aladdin)
+[中国化工制造网-盐酸二甲双胍](https://baike.baidu.com/reference/8342844/1becL_ScTxWWYSLt8Woz4d7PT_JXaEoK64_OnPcayjG214ewlNk8F0lKjV_ktPJoj4sYVyhBYlmudRsR_sHuaTMoe-shFtTHrWmU2HPLBTgQT0zu-UxS)
+
+
+
+[百度百科-盐酸二甲双胍](https://baike.baidu.com/item/%E7%9B%90%E9%85%B8%E4%BA%8C%E7%94%B2%E5%8F%8C%E8%83%8D/8342844?fr=aladdin)
 
