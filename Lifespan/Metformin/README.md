@@ -22,5 +22,5 @@ EINECS号：214-230-6
 风险术语 R22; R36/38
 安全术语 S26; S36
 ```
-[百度百科](https://baike.baidu.com/item/%E7%9B%90%E9%85%B8%E4%BA%8C%E7%94%B2%E5%8F%8C%E8%83%8D/8342844?fr=aladdin)
+[百度百科 盐酸二甲双胍](https://baike.baidu.com/item/%E7%9B%90%E9%85%B8%E4%BA%8C%E7%94%B2%E5%8F%8C%E8%83%8D/8342844?fr=aladdin)
 
