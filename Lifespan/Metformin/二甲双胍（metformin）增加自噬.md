@@ -22,7 +22,7 @@ Zah夫妇得知他们的儿子Alexander患有一种由罕见的基因突变而�
 在Alexander的案例中，医生利用这项研究的信息为他开出了二甲双胍的处方。迄今为止，效果很可观。
 
 #  期刊
-[Autophagy]（https://www.tandfonline.com/toc/kaup20/current?utm_source=WeChat&utm_medium=social&utm_campaign=JPI16494&utm_term=post&）
+[Autophagy](https://www.tandfonline.com/toc/kaup20/current?utm_source=WeChat&utm_medium=social&utm_campaign=JPI16494&utm_term=post&)
 
 
 
