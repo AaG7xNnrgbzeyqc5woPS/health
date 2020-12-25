@@ -101,5 +101,8 @@ David在29岁时发现胆固醇偏高是由于自身家族基因的原因，Davi
 
 （两次访谈的原文内容见下面链接）
 
+[David Sinclair 第二次接受Joe Rogen 关于NMN的访谈全文（2019年9月11日 ）](https://github.com/AaG7xNnrgbzeyqc5woPS/health/blob/main/Lifespan/David-Sinclair/David%20Sinclair%20%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%8E%A5%E5%8F%97Joe%20Rogen%20%E5%85%B3%E4%BA%8ENMN%E7%9A%84%E8%AE%BF%E8%B0%88%E5%85%A8%E6%96%87%EF%BC%882019%E5%B9%B49%E6%9C%8811%E6%97%A5%20%EF%BC%89.md) 
+
+
 
 PS：遗憾的是两次访谈，David都没提到所用的nmn和白藜芦醇的品牌，大家就不用在寻觅品牌的答案了。
